@@ -1,7 +1,7 @@
 
 Home Interior</a>
+a href="wallart.html" class="button">🖼️ Wall Art</a>
 
-<a href="#" class="button">🌄 Wallpaper</a>
 
 </div>
 
